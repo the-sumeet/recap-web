@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@import "@fontsource/inter";
+@import "@fontsource/eb-garamond";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "EB Garamond", ui-serif, Georgia, serif;
+  --color-primary: #0058BC;
+  --color-app-bg: #FCF8FB;
+  --color-sidebar-bg: #F6F3F5;
+  --color-surface: #F0EDED;
+  --color-surface-high: #EAE7EA;
+  --color-surface-highest: #E4E2E4;
+  --color-on-surface: #1B1B1D;
+  --color-on-surface-variant: #414755;
+  --color-outline-variant: #C1C6D7;
+  --color-secondary-container: #E0DFE4;
+  --color-mono-label: #5A5C60;
+}
+
+
